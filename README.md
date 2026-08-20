@@ -8,7 +8,7 @@
 <div align="center">
 
 
-### 💻 Passionate Frontend Developer<br>
+### Frontend Developer<br>
 
 Creating responsive, user-friendly & professional web experiences.<br>
 
