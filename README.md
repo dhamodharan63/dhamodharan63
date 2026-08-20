@@ -261,7 +261,7 @@ Mobile-friendly experiences.
 
 <a href="https://www.linkedin.com/in/dhamodharan-s-37b9b1296/">
 
-<img src="https://img.shields.io/badge/LinkedIn-DHAMODHARAN-09090b?style=for-the-badge&logo=linkedin&logoColor=9cff00" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-DHAMODHARAN-09090b?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
 
 </a>
 
