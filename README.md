@@ -1,6 +1,4 @@
-Here’s the **full cyber-themed 3D-style `README.md` code**. It keeps your details and adds a futuristic neon/cyber look with animated SVG sections, terminal styling, 3D-style cards, skill visuals, Tailwind CSS, and GitHub stats.
 
-````markdown
 <div align="center">
 
 <!-- CYBER HEADER -->
