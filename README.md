@@ -1,99 +1,153 @@
+Here’s the **full cyber-themed 3D-style `README.md` code**. It keeps your details and adds a futuristic neon/cyber look with animated SVG sections, terminal styling, 3D-style cards, skill visuals, Tailwind CSS, and GitHub stats.
+
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:17152b,100:9cff00&height=180&section=header&text=DHAMODHARAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20WEB%20DESIGNER&descAlignY=60&descSize=17" width="100%" alt="DHAMODHARAN"/>
+<!-- CYBER HEADER -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:071a12,55:0d3320,80:19ff6a,100:00e5ff&height=220&section=header&text=DHAMODHARAN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=⚡%20FRONTEND%20DEVELOPER%20%7C%20WEB%20DESIGNER%20⚡&descAlignY=62&descSize=18" width="100%"/>
 
-<div align="center">
+<br>
 
-### Frontend Developer<br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+SYSTEM...;WELCOME+TO+DHAMODHARAN'S+CYBER+SPACE;FRONTEND+DEVELOPER+%7C+WEB+DESIGNER;HTML+%7C+CSS+%7C+JAVASCRIPT;TAILWIND+CSS+%7C+BOOTSTRAP;CODE+%E2%80%A2+DESIGN+%E2%80%A2+CREATE+%E2%80%A2+GROW" />
 
-Creating responsive, user-friendly & professional web experiences.<br>
+<br>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Frontend Developer** with a strong interest in creating responsive, user-friendly, and professional websites.<br>
-
-I have experience working with **HTML, CSS, Tailwind CSS, JavaScript, and Bootstrap**, along with skills in **Web Development, Web Design, and Graphic Design**.<br>
-
-I enjoy transforming ideas into clean and engaging digital experiences.<br>
-
-I am continuously developing my technical skills and exploring new technologies to improve my capabilities as a developer.<br>
-
-I am currently open to opportunities in **Frontend Development, Web Development, and related roles** where I can contribute my skills, gain professional experience, and grow as a developer.<br>
-
----
-
-## 🛠️ Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="HTML CSS JavaScript Tailwind CSS Bootstrap"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML5-Frontend-09090b?style=for-the-badge&logo=html5&logoColor=9cff00" alt="HTML5"/>
-
-<img src="https://img.shields.io/badge/CSS3-Web%20Design-09090b?style=for-the-badge&logo=css3&logoColor=9cff00" alt="CSS3"/>
-
-<img src="https://img.shields.io/badge/JavaScript-Development-09090b?style=for-the-badge&logo=javascript&logoColor=9cff00" alt="JavaScript"/>
-
-<img src="https://img.shields.io/badge/Tailwind%20CSS-Utility%20First-09090b?style=for-the-badge&logo=tailwindcss&logoColor=9cff00" alt="Tailwind CSS"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-Responsive%20UI-09090b?style=for-the-badge&logo=bootstrap&logoColor=9cff00" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00e5ff?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/PROFILE-FRONTEND%20DEV-9cff00?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
 ---
 
-## 💻 What I Do
+# 🟢 `> SYSTEM.INIT()`
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                 DHAMODHARAN.exe                         ║
+╠══════════════════════════════════════════════════════════╣
+║ STATUS       : ONLINE                                   ║
+║ ROLE         : FRONTEND DEVELOPER                       ║
+║ SPECIALITY   : WEB DEVELOPMENT / WEB DESIGN             ║
+║ MODE         : BUILDING                                ║
+║ SYSTEM       : LEARNING                                ║
+║ MISSION      : CREATE • DESIGN • DEVELOP               ║
+╚══════════════════════════════════════════════════════════╝
+````
 
 <div align="center">
 
-<table width="100%">
+### `⚡ FRONTEND DEVELOPER`
+
+**Creating responsive, user-friendly & professional web experiences.**
+
+</div>
+
+---
+
+# 👨‍💻 `> ABOUT_ME.exe`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" width="300"/>
+
+</div>
+
+<br>
+
+I am a passionate **Frontend Developer** focused on creating responsive, user-friendly and professional websites.
+
+I work with:
+
+```text
+HTML
+CSS
+JavaScript
+Tailwind CSS
+Bootstrap
+```
+
+Along with frontend development, I have interests in:
+
+```text
+🌐 Web Development
+🎨 Web Design
+🖌️ Graphic Design
+📱 Responsive Design
+⚡ UI Development
+```
+
+I enjoy transforming ideas into clean, modern and engaging digital experiences.
+
+Currently, I am continuously improving my development skills, exploring modern technologies and building real-world projects.
+
+---
+
+# 🧬 `> TECH_STACK`
+
+<div align="center">
+
+<table>
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### 🌐<br>
+### 🌐
 
-### Web Development<br>
+**HTML5**
 
-Building responsive and functional websites using modern frontend technologies.
+`STRUCTURE`
 
-</td>
-
-<td width="25%" align="center">
-
-### 🎨<br>
-
-### Web Design<br>
-
-Creating clean, professional and user-friendly website interfaces.
+<img src="https://img.shields.io/badge/HTML5-95%25-00ff88?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=050505"/>
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### 🖌️<br>
+### 🎨
 
-### Graphic Design<br>
+**CSS3**
 
-Creating visual content and engaging digital experiences.
+`DESIGN`
+
+<img src="https://img.shields.io/badge/CSS3-90%25-00e5ff?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=050505"/>
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### 📱<br>
+### ⚡
 
-### Responsive Design<br>
+**JavaScript**
 
-Creating websites that work smoothly across desktop, tablet and mobile devices.
+`LOGIC`
+
+<img src="https://img.shields.io/badge/JS-85%25-9cff00?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=050505"/>
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌀
+
+**Tailwind CSS**
+
+`UTILITY`
+
+<img src="https://img.shields.io/badge/TAILWIND-90%25-00e5ff?style=for-the-badge&logo=tailwindcss&logoColor=ffffff&labelColor=050505"/>
+
+</td>
+
+<td align="center" width="20%">
+
+### 🅱️
+
+**Bootstrap**
+
+`UI`
+
+<img src="https://img.shields.io/badge/BOOTSTRAP-95%25-9cff00?style=for-the-badge&logo=bootstrap&logoColor=ffffff&labelColor=050505"/>
 
 </td>
 
@@ -104,197 +158,290 @@ Creating websites that work smoothly across desktop, tablet and mobile devices.
 
 ---
 
-## 🚀 My Skills
-
-**HTML** — Building the structure of modern websites.<br>
-
-**CSS** — Designing attractive and responsive interfaces.<br>
-
-**JavaScript** — Adding interactivity and dynamic functionality.<br>
-
-**Tailwind CSS** — Creating responsive layouts and customizable UI components using utility-first CSS classes.<br>
-
-**Bootstrap** — Creating responsive layouts and reusable UI components.<br>
-
----
-
-## 📈 Skill Progress
+# ⚙️ `> SKILL_MATRIX`
 
 <div align="center">
 
-### HTML<br>
+### HTML5
 
-<img src="https://img.shields.io/badge/HTML-95%25-9cff00?style=for-the-badge&labelColor=09090b" alt="HTML 95%"/>
+```text
+███████████████████░ 95%
+```
 
-<br><br>
+### CSS3
 
-### CSS<br>
+```text
+██████████████████░░ 90%
+```
 
-<img src="https://img.shields.io/badge/CSS-90%25-9cff00?style=for-the-badge&labelColor=09090b" alt="CSS 90%"/>
+### Tailwind CSS
 
-<br><br>
+```text
+██████████████████░░ 90%
+```
 
-### Tailwind CSS<br>
+### Bootstrap
 
-<img src="https://img.shields.io/badge/TailwindCSS-90%25-9cff00?style=for-the-badge&labelColor=09090b" alt="Tailwind CSS 90%"/>
+```text
+███████████████████░ 95%
+```
 
-<br><br>
+### JavaScript
 
-### Bootstrap<br>
-
-<img src="https://img.shields.io/badge/Bootstrap-95%25-9cff00?style=for-the-badge&labelColor=09090b" alt="Bootstrap 95%"/>
-
-<br><br>
-
-### JavaScript<br>
-
-<img src="https://img.shields.io/badge/JavaScript-85%25-9cff00?style=for-the-badge&labelColor=09090b" alt="JavaScript 85%"/>
+```text
+█████████████████░░░ 85%
+```
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+# 🖥️ `> WHAT_I_BUILD()`
 
-🚀 Strengthen my Frontend Development skills.<br>
+<div align="center">
 
-💻 Build professional real-world projects.<br>
+<table width="100%">
 
-🎨 Improve my Web & UI Design skills.<br>
+<tr>
 
-⚡ Explore modern web technologies.<br>
+<td align="center">
 
-📚 Improve my Tailwind CSS and JavaScript skills.<br>
+## 🌐
 
-💼 Gain professional development experience.<br>
+### WEB DEVELOPMENT
 
-📈 Continuously grow as a developer.<br>
+```text
+Responsive
+Functional
+Modern
+Scalable
+```
+
+</td>
+
+<td align="center">
+
+## 🎨
+
+### WEB DESIGN
+
+```text
+Clean UI
+Modern Layout
+Visual Design
+User Friendly
+```
+
+</td>
+
+<td align="center">
+
+## ⚡
+
+### JAVASCRIPT
+
+```text
+Interactive
+Dynamic
+Functional
+Engaging
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+## 🌀
+
+### TAILWIND CSS
+
+```text
+Utility First
+Responsive
+Customizable
+Modern UI
+```
+
+</td>
+
+<td align="center">
+
+## 🅱️
+
+### BOOTSTRAP
+
+```text
+Components
+Grid System
+Responsive
+Fast UI
+```
+
+</td>
+
+<td align="center">
+
+## 📱
+
+### RESPONSIVE
+
+```text
+Desktop
+Tablet
+Mobile
+Cross Platform
+```
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## 🤝 Open To Opportunities
+# 🚀 `> DEVELOPMENT_FOCUS`
 
-I am currently open to opportunities in:<br><br>
-
-**Frontend Development**<br>
-
-**Web Development**<br>
-
-**Web Design**<br>
-
-**UI Development**<br>
-
-**Related Development Roles**<br>
-
-<br>
-
-I am looking forward to contributing my skills to meaningful projects while gaining professional experience and continuously growing as a developer.<br>
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  [01] FRONTEND DEVELOPMENT                            │
+│       └── Building modern web interfaces              │
+│                                                       │
+│  [02] UI / WEB DESIGN                                 │
+│       └── Creating clean visual experiences           │
+│                                                       │
+│  [03] JAVASCRIPT                                      │
+│       └── Building interactive functionality           │
+│                                                       │
+│  [04] TAILWIND CSS                                    │
+│       └── Utility-first responsive interfaces          │
+│                                                       │
+│  [05] BOOTSTRAP                                       │
+│       └── Responsive reusable components               │
+│                                                       │
+│  [06] RESPONSIVE DESIGN                               │
+│       └── Mobile-friendly experiences                  │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🚀 My Repositories
+# 🧠 `> CURRENT_MISSION`
+
+<div align="center">
+
+| Mission                         | Status     |
+| ------------------------------- | ---------- |
+| 🚀 Improve Frontend Skills      | `ACTIVE`   |
+| 💻 Build Real-World Projects    | `ACTIVE`   |
+| 🎨 Improve UI / Web Design      | `ACTIVE`   |
+| 🌀 Master Tailwind CSS          | `LEARNING` |
+| ⚡ Improve JavaScript            | `LEARNING` |
+| 🌐 Explore Modern Technologies  | `ACTIVE`   |
+| 💼 Gain Professional Experience | `OPEN`     |
+
+</div>
+
+---
+
+# 📂 `> MY_REPOSITORIES`
 
 <div align="center">
 
 <a href="https://github.com/dhamodharan63?tab=repositories">
 
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-9cff00?style=for-the-badge&logo=github&logoColor=000000&labelColor=09090b" alt="View All Repositories"/>
+<img src="https://img.shields.io/badge/⚡_ACCESS_ALL_REPOSITORIES-00ff88?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
 
 </a>
 
 <br><br>
 
-Explore my projects, experiments and frontend development work.<br>
-
-**HTML • CSS • JavaScript • Tailwind CSS • Bootstrap**
-
-</div>
-
----
-
-# 💡 Development Focus
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-### 🌐<br>
-
-**Frontend Development**<br>
-
-Building modern web interfaces.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨<br>
-
-**UI / Web Design**<br>
-
-Creating clean visual experiences.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡<br>
-
-**JavaScript**<br>
-
-Building interactive functionality.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱<br>
-
-**Responsive Design**<br>
-
-Mobile-friendly experiences.
-
-</td>
-
-</tr>
-</table>
+```text
+HTML
+CSS
+JavaScript
+Tailwind CSS
+Bootstrap
+Web Design
+Frontend Projects
+```
 
 </div>
 
 ---
 
-# 📚 Technologies
+# 📊 `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="HTML CSS JavaScript Tailwind CSS Bootstrap"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhamodharan63&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00e5ff&text_color=ffffff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamodharan63&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" height="180"/>
+
+</div>
+
+---
+
+# 🔥 `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhamodharan63&theme=dark&background=050505&border=00ff88&stroke=00ff88&ring=00e5ff&fire=9cff00&currStreakLabel=00ff88" />
+
+</div>
+
+---
+
+# 🐍 `> CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dhamodharan63/dhamodharan63/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 `> OPEN_TO_OPPORTUNITIES`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-OPEN-00ff88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-OPEN-00e5ff?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/WEB_DESIGN-OPEN-9cff00?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/UI_DEVELOPMENT-OPEN-00ff88?style=for-the-badge&labelColor=050505"/>
 
 <br><br>
 
-`HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `Bootstrap`
+I am looking forward to contributing my skills to meaningful projects while gaining professional experience and continuously growing as a developer.
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 `> CONNECT_WITH_ME`
 
 <div align="center">
 
 <a href="https://github.com/dhamodharan63">
 
-<img src="https://img.shields.io/badge/GitHub-dhamodharan63-09090b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-dhamodharan63-ffffff?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505"/>
 
 </a>
 
-<br><br>
+ 
 
 <a href="https://www.linkedin.com/in/dhamodharan-s-37b9b1296/">
 
-<img src="https://img.shields.io/badge/LinkedIn-DHAMODHARAN-09090b?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-DHAMODHARAN-00e5ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=050505"/>
 
 </a>
 
@@ -302,15 +449,15 @@ Mobile-friendly experiences.
 
 <a href="https://www.instagram.com/its.me.dhamodharan/">
 
-<img src="https://img.shields.io/badge/Instagram-its.me.dhamodharan-09090b?style=for-the-badge&logo=instagram&logoColor=9cff00" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-its.me.dhamodharan-ff00ff?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=050505"/>
 
 </a>
 
-<br><br>
+ 
 
 <a href="mailto:sdhamo10@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-sdhamo10%40gmail.com-09090b?style=for-the-badge&logo=gmail&logoColor=9cff00" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-sdhamo10%40gmail.com-00ff88?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505"/>
 
 </a>
 
@@ -318,12 +465,60 @@ Mobile-friendly experiences.
 
 ---
 
+# 💾 `> TECHNOLOGIES`
+
 <div align="center">
 
-# `Code • Design • Create • Grow`
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode" />
 
-### 🚀 Building the future, one website at a time.
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9cff00,50:17152b,100:09090b&height=100&section=footer" width="100%" alt="Footer"/>
+```text
+HTML5
+CSS3
+JavaScript
+Tailwind CSS
+Bootstrap
+Git
+GitHub
+VS Code
+```
 
 </div>
+
+---
+
+# ⚡ `> DEVELOPER_PROTOCOL`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║              CODE • DESIGN • CREATE • GROW           ║
+║                                                      ║
+║          THINK → BUILD → TEST → IMPROVE              ║
+║                                                      ║
+║          LEARN → CREATE → DEPLOY → REPEAT            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=SYSTEM+STATUS%3A+ONLINE;KEEP+CODING...;KEEP+LEARNING...;KEEP+BUILDING...;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80" />
+
+<br><br>
+
+### `⚡ CODE • DESIGN • CREATE • GROW ⚡`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,25:00e5ff,55:17152b,100:050505&height=130&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+```
