@@ -219,13 +219,21 @@ Mobile-friendly experiences.
 
 ---
 
-# 📊 `> GITHUB_ANALYTICS`
+# `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhamodharan63&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00e5ff&text_color=ffffff" height="180" alt="GitHub Stats"/>
+<a href="https://github.com/dhamodharan63">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamodharan63&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhamodharan63&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00e5ff&text_color=ffffff" width="48%" alt="Dhamodharan GitHub Stats"/>
+
+</a>
+
+<a href="https://github.com/dhamodharan63">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamodharan63&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" width="48%" alt="Dhamodharan Top Languages"/>
+
+</a>
 
 </div>
 
