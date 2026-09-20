@@ -19,7 +19,7 @@ Creating responsive, user-friendly & professional web experiences.<br>
 ## 👨‍💻 About Me
 
 I am a passionate **Frontend Developer** with a strong interest in creating responsive, user-friendly, and professional websites.<br>
-I have experience working with **HTML, CSS, JavaScript, and Bootstrap**, along with skills in **Web Development, Web Design, and Graphic Design**.<br>
+I have experience working with **HTML, CSS, TailwindCSS, JavaScript, and Bootstrap**, along with skills in **Web Development, Web Design, and Graphic Design**.<br>
 I enjoy transforming ideas into clean and engaging digital experiences.<br>
 I am continuously developing my technical skills and exploring new technologies to improve my capabilities as a developer.<br>
 I am currently open to opportunities in **Frontend Development, Web Development, and related roles** where I can contribute my skills, gain professional experience, and grow as a developer.<br>
@@ -102,6 +102,7 @@ Creating websites that work smoothly across desktop, tablet and mobile devices.<
 **HTML** — Building the structure of modern websites.<br>
 **CSS** — Designing attractive and responsive interfaces.<br>
 **JavaScript** — Adding interactivity and dynamic functionality.<br>
+**TailwindCSS** — Creating responsive layouts and customizable UI components using utility-first CSS classes.<br>
 **Bootstrap** — Creating responsive layouts and reusable UI components.<br>
 
 ---
@@ -119,6 +120,12 @@ Creating websites that work smoothly across desktop, tablet and mobile devices.<
 ### CSS<br>
 
 <img src="https://img.shields.io/badge/CSS-90%25-9cff00?style=for-the-badge&labelColor=09090b" alt="CSS 90%"/>
+
+<br><br>
+
+### TailwindCSS<br>
+
+<img src="https://img.shields.io/badge/Bootstrap-95%25-9cff00?style=for-the-badge&labelColor=09090b" alt="TailwindCSS 95%"/>
 
 <br><br>
 
