@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:17152b,100:9cff00&height=180&section=header&text=DHAMODHARAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20WEB%20DESIGNER&descAlignY=60&descSize=17" width="100%" alt="DHAMODHARAN"/>
@@ -6,7 +5,6 @@
 </div>
 
 <div align="center">
-
 
 ### Frontend Developer<br>
 
@@ -19,9 +17,13 @@ Creating responsive, user-friendly & professional web experiences.<br>
 ## 👨‍💻 About Me
 
 I am a passionate **Frontend Developer** with a strong interest in creating responsive, user-friendly, and professional websites.<br>
-I have experience working with **HTML, CSS, TailwindCSS, JavaScript, and Bootstrap**, along with skills in **Web Development, Web Design, and Graphic Design**.<br>
+
+I have experience working with **HTML, CSS, Tailwind CSS, JavaScript, and Bootstrap**, along with skills in **Web Development, Web Design, and Graphic Design**.<br>
+
 I enjoy transforming ideas into clean and engaging digital experiences.<br>
+
 I am continuously developing my technical skills and exploring new technologies to improve my capabilities as a developer.<br>
+
 I am currently open to opportunities in **Frontend Development, Web Development, and related roles** where I can contribute my skills, gain professional experience, and grow as a developer.<br>
 
 ---
@@ -30,13 +32,18 @@ I am currently open to opportunities in **Frontend Development, Web Development,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML CSS JavaScript Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="HTML CSS JavaScript Tailwind CSS Bootstrap"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/HTML5-Frontend-09090b?style=for-the-badge&logo=html5&logoColor=9cff00" alt="HTML5"/>
+
 <img src="https://img.shields.io/badge/CSS3-Web%20Design-09090b?style=for-the-badge&logo=css3&logoColor=9cff00" alt="CSS3"/>
+
 <img src="https://img.shields.io/badge/JavaScript-Development-09090b?style=for-the-badge&logo=javascript&logoColor=9cff00" alt="JavaScript"/>
+
+<img src="https://img.shields.io/badge/Tailwind%20CSS-Utility%20First-09090b?style=for-the-badge&logo=tailwindcss&logoColor=9cff00" alt="Tailwind CSS"/>
+
 <img src="https://img.shields.io/badge/Bootstrap-Responsive%20UI-09090b?style=for-the-badge&logo=bootstrap&logoColor=9cff00" alt="Bootstrap"/>
 
 </div>
@@ -56,7 +63,7 @@ I am currently open to opportunities in **Frontend Development, Web Development,
 
 ### Web Development<br>
 
-Building responsive and functional websites using modern frontend technologies.<br>
+Building responsive and functional websites using modern frontend technologies.
 
 </td>
 
@@ -66,7 +73,7 @@ Building responsive and functional websites using modern frontend technologies.<
 
 ### Web Design<br>
 
-Creating clean, professional and user-friendly website interfaces.<br>
+Creating clean, professional and user-friendly website interfaces.
 
 </td>
 
@@ -76,7 +83,7 @@ Creating clean, professional and user-friendly website interfaces.<br>
 
 ### Graphic Design<br>
 
-Creating visual content and engaging digital experiences.<br>
+Creating visual content and engaging digital experiences.
 
 </td>
 
@@ -86,7 +93,7 @@ Creating visual content and engaging digital experiences.<br>
 
 ### Responsive Design<br>
 
-Creating websites that work smoothly across desktop, tablet and mobile devices.<br>
+Creating websites that work smoothly across desktop, tablet and mobile devices.
 
 </td>
 
@@ -100,9 +107,13 @@ Creating websites that work smoothly across desktop, tablet and mobile devices.<
 ## 🚀 My Skills
 
 **HTML** — Building the structure of modern websites.<br>
+
 **CSS** — Designing attractive and responsive interfaces.<br>
+
 **JavaScript** — Adding interactivity and dynamic functionality.<br>
-**TailwindCSS** — Creating responsive layouts and customizable UI components using utility-first CSS classes.<br>
+
+**Tailwind CSS** — Creating responsive layouts and customizable UI components using utility-first CSS classes.<br>
+
 **Bootstrap** — Creating responsive layouts and reusable UI components.<br>
 
 ---
@@ -123,9 +134,9 @@ Creating websites that work smoothly across desktop, tablet and mobile devices.<
 
 <br><br>
 
-### TailwindCSS<br>
+### Tailwind CSS<br>
 
-<img src="https://img.shields.io/badge/Bootstrap-95%25-9cff00?style=for-the-badge&labelColor=09090b" alt="TailwindCSS 95%"/>
+<img src="https://img.shields.io/badge/TailwindCSS-90%25-9cff00?style=for-the-badge&labelColor=09090b" alt="Tailwind CSS 90%"/>
 
 <br><br>
 
@@ -146,10 +157,17 @@ Creating websites that work smoothly across desktop, tablet and mobile devices.<
 ## 🎯 Current Goals
 
 🚀 Strengthen my Frontend Development skills.<br>
+
 💻 Build professional real-world projects.<br>
+
 🎨 Improve my Web & UI Design skills.<br>
+
 ⚡ Explore modern web technologies.<br>
+
+📚 Improve my Tailwind CSS and JavaScript skills.<br>
+
 💼 Gain professional development experience.<br>
+
 📈 Continuously grow as a developer.<br>
 
 ---
@@ -159,14 +177,20 @@ Creating websites that work smoothly across desktop, tablet and mobile devices.<
 I am currently open to opportunities in:<br><br>
 
 **Frontend Development**<br>
+
 **Web Development**<br>
+
 **Web Design**<br>
+
+**UI Development**<br>
+
 **Related Development Roles**<br>
 
 <br>
 
 I am looking forward to contributing my skills to meaningful projects while gaining professional experience and continuously growing as a developer.<br>
 
+---
 
 # 🚀 My Repositories
 
@@ -181,7 +205,8 @@ I am looking forward to contributing my skills to meaningful projects while gain
 <br><br>
 
 Explore my projects, experiments and frontend development work.<br>
-**HTML • CSS • JavaScript • Bootstrap**
+
+**HTML • CSS • JavaScript • Tailwind CSS • Bootstrap**
 
 </div>
 
@@ -199,6 +224,7 @@ Explore my projects, experiments and frontend development work.<br>
 ### 🌐<br>
 
 **Frontend Development**<br>
+
 Building modern web interfaces.
 
 </td>
@@ -208,6 +234,7 @@ Building modern web interfaces.
 ### 🎨<br>
 
 **UI / Web Design**<br>
+
 Creating clean visual experiences.
 
 </td>
@@ -217,6 +244,7 @@ Creating clean visual experiences.
 ### ⚡<br>
 
 **JavaScript**<br>
+
 Building interactive functionality.
 
 </td>
@@ -226,6 +254,7 @@ Building interactive functionality.
 ### 📱<br>
 
 **Responsive Design**<br>
+
 Mobile-friendly experiences.
 
 </td>
@@ -241,14 +270,11 @@ Mobile-friendly experiences.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="HTML CSS JavaScript Tailwind CSS Bootstrap"/>
 
 <br><br>
 
-`HTML`<br>
-`CSS`<br>
-`JavaScript`<br>
-`Bootstrap`<br>
+`HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `Bootstrap`
 
 </div>
 
@@ -294,9 +320,9 @@ Mobile-friendly experiences.
 
 <div align="center">
 
-# `Code • Design • Create • Grow`<br>
+# `Code • Design • Create • Grow`
 
-### 🚀 Building the future, one website at a time.<br>
+### 🚀 Building the future, one website at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9cff00,50:17152b,100:09090b&height=100&section=footer" width="100%" alt="Footer"/>
 
